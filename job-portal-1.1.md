@@ -9,7 +9,7 @@
 ### 1.3 Definitions, Accronyms and Abbreviations
 + None
 ## 2.0. Overall Solution Description
-##  2.1. Overall Perspective
+###  2.1. Overall Perspective
 + The diagram below shows the context diagram of the solution to be developed in the first sprint (the diagram will be modified as we add more features according to road map).
 
         +-----------------------+
