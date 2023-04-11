@@ -123,3 +123,21 @@ It should be mobile friendly to Job seekers
 + Email Server API - SMTP
 + Auth Servers - Google API
 ### 3.4. Communication Interfaces
+## 4.0 Functional Requirements
+### 4.1. Sprint 1 Features
+#### Feat 1: Authentication requirements
+
++ Feat 1.1: Sign up job seeker using email address (local credentials)
++ Feat 1.2: Sign up job seeker using Google
++ Feat 1.3: Sign in job seeker using local credentials
++ Feat 1.4: Sign in job seeker using Google
++ Feat 1.5: Reset  job seeker password (local credentials)
++ Feat 1.6: Change job seeker password (local credentials)
+#### Feat 2: Authorization requirements:
+
+##### Feat 2.1: admin role
++ should have role to manage job seeker and their statuses only
++ should be able to view the notifications
++ should NOT view job seekers data
+##### Feat 2.1: Jobseeker role
++ should manage job seekers data and any related data.
