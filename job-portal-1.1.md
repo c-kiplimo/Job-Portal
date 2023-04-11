@@ -123,6 +123,7 @@ It should be mobile friendly to Job seekers
 + Email Server API - SMTP
 + Auth Servers - Google API
 ### 3.4. Communication Interfaces
++ None
 ## 4.0 Functional Requirements
 ### 4.1. Sprint 1 Features
 #### Feat 1: Authentication requirements
